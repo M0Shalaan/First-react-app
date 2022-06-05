@@ -37,11 +37,11 @@ const AddTask = ({ onAdd }) => {
         />
       </div>
       <div className="form-control">
-        <label>Brief</label>
+      <label>Brief</label>
         <input
           type="text"
-          placeholder="Add Brief"
-          value={brief}
+          placeholder="Add Task"
+          value={text}
           onChange={(e) => setBrief(e.target.value)}
         />
       </div>
