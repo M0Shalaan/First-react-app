@@ -1,16 +1,18 @@
 {
   "tasks": [
     {
-      "text": "school",
-      "day": "morning 7 am",
+      "brief": "brief",
+      "text": "task",
+      "day": "time",
       "reminder": true,
-      "id": 2
+      "id": 1
     },
     {
-      "text": "wash face ",
-      "day": "after up from bed",
+      "text": "task",
+      "day": "time ",
+      "brief": "brief",
       "reminder": true,
-      "id": 3
+      "id": 2
     }
   ]
 }
