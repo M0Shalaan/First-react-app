@@ -64,8 +64,8 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build && json-server --watch db.json --port 5000 ",
+    "predeploy": "npm run build && gh-pages -d build ",
+    "deploy": "json-server --watch db.json --port 5000",
     "build": "node scripts/build.js",
     "server": "json-server --watch db.json --port 5000"
   },
