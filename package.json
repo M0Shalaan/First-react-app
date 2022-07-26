@@ -67,7 +67,7 @@
     "predeploy": "npm run build && gh-pages -d build ",
     "deploy": "json-server --watch db.json --port 5000",
     "build": "node scripts/build.js",
-    "server": "json-server --watch db.json --port 5000"
+  
   },
   "eslintConfig": {
     "extends": [
