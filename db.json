@@ -15,18 +15,11 @@
       "id": 2
     },
     {
-      "text": "dsfsdf",
-      "day": "fsdf",
-      "brief": "fsdf",
+      "text": "this is test ",
+      "day": "another test",
+      "brief": "this is other test",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "fff",
-      "day": "fff",
-      "brief": "fff",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
